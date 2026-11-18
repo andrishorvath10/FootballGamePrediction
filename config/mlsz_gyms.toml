@@ -1,0 +1,76 @@
+# MLSZ adatbank: Győr-Moson-Sopron vármegye, felnőtt férfi bajnokságok (Megye I–III).
+#
+# IDs were read from the adatbank's own league selector. League IDs change every
+# season, so each competition lists its ID per season. U21, reserve ("Tartalék"),
+# veteran, youth and cup competitions are intentionally left out.
+#
+# This file contains no personal data and may be committed.
+
+[mlsz]
+federation_id = 8                 # Győr-Moson-Sopron
+delay_seconds = 3.0               # be polite: at most one request every 3 s
+timeout_seconds = 20
+max_retries = 3
+round_page_max_age_hours = 12     # re-check rounds with pending results after this
+user_agent = "football-predictor/0.1 (personal non-commercial research project)"
+
+# Season name -> MLSZ season id. The FIRST entry is the default season.
+[mlsz.season_ids]
+"2026/27" = 67
+"2025/26" = 65
+
+[[competitions]]
+name = "GYMS Megye I"
+region = "Győr-Moson-Sopron"
+level = 1
+league_ids = { "2026/27" = 33888, "2025/26" = 31658 }
+
+[[competitions]]
+name = "GYMS Megye II Kelet"
+region = "Győr-Moson-Sopron"
+level = 2
+league_ids = { "2026/27" = 33890, "2025/26" = 31660 }
+
+[[competitions]]
+name = "GYMS Megye II Észak"
+region = "Győr-Moson-Sopron"
+level = 2
+league_ids = { "2026/27" = 34176, "2025/26" = 31866 }
+
+[[competitions]]
+name = "GYMS Megye II Nyugat"
+region = "Győr-Moson-Sopron"
+level = 2
+# 2025/26: regular phase only (the "Felsőház"/"Alsóház" play-off split is not included)
+league_ids = { "2026/27" = 34179, "2025/26" = 31868 }
+
+[[competitions]]
+name = "GYMS Megye III Kelet A"
+region = "Győr-Moson-Sopron"
+level = 3
+league_ids = { "2026/27" = 33892, "2025/26" = 31871 }
+
+[[competitions]]
+name = "GYMS Megye III Kelet B"
+region = "Győr-Moson-Sopron"
+level = 3
+league_ids = { "2026/27" = 34181, "2025/26" = 31662 }
+
+[[competitions]]
+name = "GYMS Megye III Észak"
+region = "Győr-Moson-Sopron"
+level = 3
+league_ids = { "2026/27" = 34182, "2025/26" = 31872 }
+
+[[competitions]]
+name = "GYMS Megye III Nyugat A"
+region = "Győr-Moson-Sopron"
+level = 3
+# 2025/26: regular phase only (play-off split not included)
+league_ids = { "2026/27" = 34183, "2025/26" = 31874 }
+
+[[competitions]]
+name = "GYMS Megye III Nyugat B"
+region = "Győr-Moson-Sopron"
+level = 3
+league_ids = { "2026/27" = 34185, "2025/26" = 31876 }

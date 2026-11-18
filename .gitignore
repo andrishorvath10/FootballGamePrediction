@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+
+# Local configuration (may contain credentials)
+.env
+
+# Databases: may contain REAL player names (personal data) -> never commit
+*.db
+*.sqlite
+*.sqlite3
+
+# Raw scraped data and real league data are personal data -> never commit
+data/raw/*
+!data/raw/.gitkeep
+data/real/
+
+# Logs (may contain names from scraped pages)
+*.log
+data/backtest/

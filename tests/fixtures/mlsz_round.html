@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!-- Structure copied from adatbank.mlsz.hu round pages; ALL names are fictional. -->
+<html lang="hu"><head><meta charset="UTF-8" /><title>Fiktív Megye II. 13. forduló</title></head>
+<body>
+<select id="turns" onchange="changeTurn(this.value)">
+  <option value="-1" disabled>Válasszon</option>
+  <option value=1>1. forduló</option><option value=2>2. forduló</option>
+  <option selected value=3>3. forduló</option><option value=4>4. forduló</option>
+</select>
+<div id="match_panel" class="content sorsolas_panel"><div class="one-box-container"><div class="box box-1"><div class="schedule_box">
+<div class="schedule ">
+<div class="home_team"><a href="https://adatbank.mlsz.hu/club/67/8/1/3/900001.html" title="KÖDVÁR SE"><span>KÖDVÁR SE</span></a></div>
+<div class="home_logo "><a href="#"><img src="x.png" width="20" /></a></div>
+<div class="result-cont"><a href="https://adatbank.mlsz.hu/match/67/8/1/3/5000001.html"><div class="result"><span class="schedule-points" data-dv="x">3 - 2</span></div></a></div>
+<div class="away_logo "><a href="#"><img src="x.png" width="20" /></a></div>
+<div class="away_team"><a href="https://adatbank.mlsz.hu/club/67/8/1/3/900002.html" title="SZÉLMALOM FC "><span>SZÉLMALOM FC </span></a></div>
+<div class="team_sorsolas_date">2026. 11. 08. <span> 14:00</span></div>
+<div class="team_sorsolas_arena">Ködvári sporttelep</div>
+</div>
+<div class="schedule ">
+<div class="home_team"><a href="#" title="HOLDFÉNY TC"><span>HOLDFÉNY TC</span></a></div>
+<div class="result-cont"><a href="https://adatbank.mlsz.hu/match/67/8/1/3/5000002.html"><div class="result"><span class="schedule-points" data-dv="x">0 - 0</span></div></a></div>
+<div class="away_team"><a href="#" title="CSILLAGRÉT SK"><span>CSILLAGRÉT SK</span></a></div>
+<div class="team_sorsolas_date">2026. 11. 08. <span> 14:00</span></div>
+</div>
+<div class="schedule ">
+<div class="home_team"><a href="#" title="VADKÖRTE KSE"><span>VADKÖRTE KSE</span></a></div>
+<div class="result-cont"><div class="result"><span class="schedule-date" data-dv="x">03-14</span><span> 15:00</span></div></div>
+<div class="away_team"><a href="#" title="RÓKAHEGY SC"><span>RÓKAHEGY SC</span></a></div>
+<div class="team_sorsolas_date">2027. 03. 14. <span> 15:00</span></div>
+</div>
+</div></div></div></div>
+<!-- A second list with identical markup (a team's full schedule) that must be ignored. -->
+<div id="sorsolas_panel" class="content sorsolas_panel"><div class="schedule_box">
+<div class="schedule ">
+<div class="home_team"><a href="#" title="KÖDVÁR SE"><span>KÖDVÁR SE</span></a></div>
+<div class="result-cont"><a href="https://adatbank.mlsz.hu/match/67/8/1/1/5000099.html"><div class="result"><span class="schedule-points">1 - 1</span></div></a></div>
+<div class="away_team"><a href="#" title="HOLDFÉNY TC"><span>HOLDFÉNY TC</span></a></div>
+</div>
+</div></div>
+<div id="tabella_panel" class="content standings_box nb-1"><table>
+<tr><th>H.</th><th></th><th>Csapat</th><th>M.</th><th>Gy.</th><th>D.</th><th>V.</th><th>LG.</th><th>KG.</th><th>GK.</th><th>P.</th><th>BR.*</th><th>Megjegyzés</th><th>Következő ellenfél</th><th>Forma</th></tr>
+<tr class="template-tr-selectable noNb1Tr" data-origrank="1" onclick=""><td class="standing_position">1</td><td><img alt="KÖDVÁR SE" src="x.png"/></td><td>KÖDVÁR SE</td><td>3</td><td>2</td><td>1</td><td>0</td><td>7</td><td>2</td><td class="remove700">5</td><td class="prow">7</td><td></td><!--<td></td>--><td class=""></td><td class="remove500"></td><td class="tableForm0 remove500"></td></tr>
+<tr class="template-tr-selectable noNb1Tr" data-origrank="2" onclick=""><td class="standing_position">2</td><td><img alt="HOLDFÉNY TC" src="x.png"/></td><td>HOLDFÉNY TC</td><td>3</td><td>2</td><td>0</td><td>1</td><td>5</td><td>4</td><td class="remove700">1</td><td class="prow">6</td><td></td><!--<td></td>--><td class=""></td><td class="remove500"></td><td class="tableForm0 remove500"></td></tr>
+<tr class="template-tr-selectable noNb1Tr" data-origrank="3" onclick=""><td class="standing_position">3</td><td><img alt="SZÉLMALOM FC" src="x.png"/></td><td>SZÉLMALOM FC</td><td>3</td><td>2</td><td>0</td><td>1</td><td>6</td><td>3</td><td class="remove700">3</td><td class="prow">3</td><td></td><!--<td></td>--><td class="">Büntetőpont: -3</td><td class="remove500"></td><td class="tableForm0 remove500"></td></tr>
+<tr class="template-tr-selectable noNb1Tr" data-origrank="4" onclick=""><td class="standing_position">4</td><td><img alt="RÓKAHEGY SC" src="x.png"/></td><td>RÓKAHEGY SC</td><td>3</td><td>0</td><td>1</td><td>2</td><td>1</td><td>8</td><td class="remove700">-7</td><td class="prow">1</td><td></td><!--<td></td>--><td class=""></td><td class="remove500"></td><td class="tableForm0 remove500"></td></tr>
+</table></div>
+</body></html>

@@ -1,0 +1,27 @@
+# Scraper configuration TEMPLATE.
+# Every league website is different: open the page in your browser, use
+# "Inspect element" to find the HTML structure, then adapt the CSS selectors.
+# Always check the site's terms of use before scraping.
+
+[scraper]
+season = "2025/26"
+date_format = "%Y.%m.%d."      # Python strptime format of the date cells
+delay_seconds = 3.0            # minimum pause between requests (robots.txt Crawl-delay wins if larger)
+timeout_seconds = 20
+max_retries = 3
+user_agent = "football-predictor/0.1 (personal non-commercial research project)"
+
+[selectors]
+match_row = "table.fixtures tr.match"   # one element per match (global selector)
+round     = "td.round"                  # the following are relative to match_row
+date      = "td.date"
+home_team = "td.home"
+away_team = "td.away"
+score     = "td.score"
+
+[[pages]]
+url = "https://example.org/league/fixtures?round=1"
+# round = 1   # use this if the rows themselves carry no round number
+
+[[pages]]
+url = "https://example.org/league/fixtures?round=2"

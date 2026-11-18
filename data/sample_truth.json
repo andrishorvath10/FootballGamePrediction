@@ -1,0 +1,991 @@
+{
+  "seed": 42,
+  "base_rate": 1.35,
+  "home_advantage": 1.3,
+  "attack": {
+    "Ködvár SE": 1.2117753509291505,
+    "Szélmalom FC": 0.8095118726301964,
+    "Holdfény TC": 1.3851476649710508,
+    "Csillagrét SK": 1.4664445644203037,
+    "Vadkörte KSE": 0.615919402519674,
+    "Ezüstpatak FC": 0.7482766925831449,
+    "Rókahegy SC": 1.1491511202185625,
+    "Fenyvesalja SE": 1.0058154593281297,
+    "Kőhíd ULE": 1.1003530086438778,
+    "Darázsfalva FC": 0.8562081335284942
+  },
+  "defense": {
+    "Ködvár SE": 1.2007030430235752,
+    "Szélmalom FC": 1.1646556251572338,
+    "Holdfény TC": 0.94072640698579,
+    "Csillagrét SK": 1.2933816519928245,
+    "Vadkörte KSE": 1.0611366709182586,
+    "Ezüstpatak FC": 0.7126963136232412,
+    "Rókahegy SC": 1.0301589360599832,
+    "Fenyvesalja SE": 0.6917180017917456,
+    "Kőhíd ULE": 1.200361729187404,
+    "Darázsfalva FC": 0.9085640331703362
+  },
+  "players": [
+    {
+      "name": "Berkes János",
+      "team": "Ködvár SE",
+      "role": "GK",
+      "scoring_share": 0.0002907479958583188
+    },
+    {
+      "name": "Jegenye Csaba",
+      "team": "Ködvár SE",
+      "role": "GK",
+      "scoring_share": 0.00025293737502124215
+    },
+    {
+      "name": "Hamvas Gergő",
+      "team": "Ködvár SE",
+      "role": "DF",
+      "scoring_share": 0.01548144001142431
+    },
+    {
+      "name": "Mezei Csaba",
+      "team": "Ködvár SE",
+      "role": "DF",
+      "scoring_share": 0.025783369443693333
+    },
+    {
+      "name": "Zsályás Ervin",
+      "team": "Ködvár SE",
+      "role": "DF",
+      "scoring_share": 0.014975567933272779
+    },
+    {
+      "name": "Jegenye Olivér",
+      "team": "Ködvár SE",
+      "role": "DF",
+      "scoring_share": 0.01092731046257686
+    },
+    {
+      "name": "Zsályás Noel",
+      "team": "Ködvár SE",
+      "role": "DF",
+      "scoring_share": 0.023333105126897697
+    },
+    {
+      "name": "Rügyes Kende",
+      "team": "Ködvár SE",
+      "role": "MF",
+      "scoring_share": 0.04988494859658249
+    },
+    {
+      "name": "Ugari Szabolcs",
+      "team": "Ködvár SE",
+      "role": "MF",
+      "scoring_share": 0.08676636986976165
+    },
+    {
+      "name": "Jegenye Márk",
+      "team": "Ködvár SE",
+      "role": "MF",
+      "scoring_share": 0.044121991221185784
+    },
+    {
+      "name": "Patakos Örs",
+      "team": "Ködvár SE",
+      "role": "MF",
+      "scoring_share": 0.021826101952640727
+    },
+    {
+      "name": "Zsályás Örs",
+      "team": "Ködvár SE",
+      "role": "MF",
+      "scoring_share": 0.020313008773213487
+    },
+    {
+      "name": "Ivó Ervin",
+      "team": "Ködvár SE",
+      "role": "FW",
+      "scoring_share": 0.24509216557456145
+    },
+    {
+      "name": "Vackor Ferenc",
+      "team": "Ködvár SE",
+      "role": "FW",
+      "scoring_share": 0.2541699709274248
+    },
+    {
+      "name": "Gyökeres Ervin",
+      "team": "Ködvár SE",
+      "role": "FW",
+      "scoring_share": 0.0981415430089019
+    },
+    {
+      "name": "Ivó Kende",
+      "team": "Ködvár SE",
+      "role": "FW",
+      "scoring_share": 0.08863942172698314
+    },
+    {
+      "name": "Tölgyes János",
+      "team": "Szélmalom FC",
+      "role": "GK",
+      "scoring_share": 0.0002388452265434135
+    },
+    {
+      "name": "Gyökeres Ádám",
+      "team": "Szélmalom FC",
+      "role": "GK",
+      "scoring_share": 0.00031350967397944664
+    },
+    {
+      "name": "Ugari Huba",
+      "team": "Szélmalom FC",
+      "role": "DF",
+      "scoring_share": 0.02928603951934283
+    },
+    {
+      "name": "Ormos Richárd",
+      "team": "Szélmalom FC",
+      "role": "DF",
+      "scoring_share": 0.009544483136347108
+    },
+    {
+      "name": "Hamvas Noel",
+      "team": "Szélmalom FC",
+      "role": "DF",
+      "scoring_share": 0.018811632164967045
+    },
+    {
+      "name": "Sásdi Zalán",
+      "team": "Szélmalom FC",
+      "role": "DF",
+      "scoring_share": 0.014542493469144886
+    },
+    {
+      "name": "Vackor Vilmos",
+      "team": "Szélmalom FC",
+      "role": "DF",
+      "scoring_share": 0.015726121462300444
+    },
+    {
+      "name": "Cserjés Levente",
+      "team": "Szélmalom FC",
+      "role": "MF",
+      "scoring_share": 0.09175765032086829
+    },
+    {
+      "name": "Kavicsos Kristóf",
+      "team": "Szélmalom FC",
+      "role": "MF",
+      "scoring_share": 0.0727355071339436
+    },
+    {
+      "name": "Ugari Ferenc",
+      "team": "Szélmalom FC",
+      "role": "MF",
+      "scoring_share": 0.10846971469382914
+    },
+    {
+      "name": "Dombi Botond",
+      "team": "Szélmalom FC",
+      "role": "MF",
+      "scoring_share": 0.05144530031607192
+    },
+    {
+      "name": "Gyökeres Ferenc",
+      "team": "Szélmalom FC",
+      "role": "MF",
+      "scoring_share": 0.03924408166345718
+    },
+    {
+      "name": "Fürge Örs",
+      "team": "Szélmalom FC",
+      "role": "FW",
+      "scoring_share": 0.13251181319245112
+    },
+    {
+      "name": "Lankás Gergő",
+      "team": "Szélmalom FC",
+      "role": "FW",
+      "scoring_share": 0.16731020455798773
+    },
+    {
+      "name": "Dombi Örs",
+      "team": "Szélmalom FC",
+      "role": "FW",
+      "scoring_share": 0.16188527175352338
+    },
+    {
+      "name": "Cserjés Botond",
+      "team": "Szélmalom FC",
+      "role": "FW",
+      "scoring_share": 0.0861773317152426
+    },
+    {
+      "name": "Ágas Márk",
+      "team": "Holdfény TC",
+      "role": "GK",
+      "scoring_share": 0.0008532833991100085
+    },
+    {
+      "name": "Mezei Botond",
+      "team": "Holdfény TC",
+      "role": "GK",
+      "scoring_share": 0.0002167730679327104
+    },
+    {
+      "name": "Mezei Ádám",
+      "team": "Holdfény TC",
+      "role": "DF",
+      "scoring_share": 0.009110322283061413
+    },
+    {
+      "name": "Patakos Vilmos",
+      "team": "Holdfény TC",
+      "role": "DF",
+      "scoring_share": 0.013473262950732354
+    },
+    {
+      "name": "Rügyes Dániel",
+      "team": "Holdfény TC",
+      "role": "DF",
+      "scoring_share": 0.005864834602244607
+    },
+    {
+      "name": "Borókás Tamás",
+      "team": "Holdfény TC",
+      "role": "DF",
+      "scoring_share": 0.006782297127124575
+    },
+    {
+      "name": "Borókás Richárd",
+      "team": "Holdfény TC",
+      "role": "DF",
+      "scoring_share": 0.04095451385154944
+    },
+    {
+      "name": "Gyökeres Márk",
+      "team": "Holdfény TC",
+      "role": "MF",
+      "scoring_share": 0.02225884537612128
+    },
+    {
+      "name": "Lankás Botond",
+      "team": "Holdfény TC",
+      "role": "MF",
+      "scoring_share": 0.024484933666841138
+    },
+    {
+      "name": "Csermely Csaba",
+      "team": "Holdfény TC",
+      "role": "MF",
+      "scoring_share": 0.10615576848092852
+    },
+    {
+      "name": "Dombi Márk",
+      "team": "Holdfény TC",
+      "role": "MF",
+      "scoring_share": 0.18108822616157738
+    },
+    {
+      "name": "Cserjés Csaba",
+      "team": "Holdfény TC",
+      "role": "MF",
+      "scoring_share": 0.023586333394309766
+    },
+    {
+      "name": "Sásdi Péter",
+      "team": "Holdfény TC",
+      "role": "FW",
+      "scoring_share": 0.09398691212477932
+    },
+    {
+      "name": "Jegenye Imre",
+      "team": "Holdfény TC",
+      "role": "FW",
+      "scoring_share": 0.13402921434993711
+    },
+    {
+      "name": "Vackor Örs",
+      "team": "Holdfény TC",
+      "role": "FW",
+      "scoring_share": 0.26817207368351004
+    },
+    {
+      "name": "Ivó Levente",
+      "team": "Holdfény TC",
+      "role": "FW",
+      "scoring_share": 0.06898240548024043
+    },
+    {
+      "name": "Berkes Kende",
+      "team": "Csillagrét SK",
+      "role": "GK",
+      "scoring_share": 0.00024352752331710474
+    },
+    {
+      "name": "Nádas János",
+      "team": "Csillagrét SK",
+      "role": "GK",
+      "scoring_share": 0.0004092213124147428
+    },
+    {
+      "name": "Nádas Zalán",
+      "team": "Csillagrét SK",
+      "role": "DF",
+      "scoring_share": 0.016637071232652206
+    },
+    {
+      "name": "Lankás Kende",
+      "team": "Csillagrét SK",
+      "role": "DF",
+      "scoring_share": 0.0497425580718937
+    },
+    {
+      "name": "Dombi Szabolcs",
+      "team": "Csillagrét SK",
+      "role": "DF",
+      "scoring_share": 0.03835765676189657
+    },
+    {
+      "name": "Kavicsos Olivér",
+      "team": "Csillagrét SK",
+      "role": "DF",
+      "scoring_share": 0.021183021490830838
+    },
+    {
+      "name": "Patakos Tamás",
+      "team": "Csillagrét SK",
+      "role": "DF",
+      "scoring_share": 0.011926324581326517
+    },
+    {
+      "name": "Ormos Vilmos",
+      "team": "Csillagrét SK",
+      "role": "MF",
+      "scoring_share": 0.030044609608203064
+    },
+    {
+      "name": "Patakos Richárd",
+      "team": "Csillagrét SK",
+      "role": "MF",
+      "scoring_share": 0.09505545676171058
+    },
+    {
+      "name": "Csermely Zalán",
+      "team": "Csillagrét SK",
+      "role": "MF",
+      "scoring_share": 0.05975564197402265
+    },
+    {
+      "name": "Ormos Botond",
+      "team": "Csillagrét SK",
+      "role": "MF",
+      "scoring_share": 0.0666170600612432
+    },
+    {
+      "name": "Nádas Olivér",
+      "team": "Csillagrét SK",
+      "role": "MF",
+      "scoring_share": 0.021902395329914535
+    },
+    {
+      "name": "Nádas Ervin",
+      "team": "Csillagrét SK",
+      "role": "FW",
+      "scoring_share": 0.2221688090221208
+    },
+    {
+      "name": "Erdős Péter",
+      "team": "Csillagrét SK",
+      "role": "FW",
+      "scoring_share": 0.17537533037523004
+    },
+    {
+      "name": "Rügyes Márk",
+      "team": "Csillagrét SK",
+      "role": "FW",
+      "scoring_share": 0.080198347580687
+    },
+    {
+      "name": "Sásdi Olivér",
+      "team": "Csillagrét SK",
+      "role": "FW",
+      "scoring_share": 0.11038296831253647
+    },
+    {
+      "name": "Kavicsos Imre",
+      "team": "Vadkörte KSE",
+      "role": "GK",
+      "scoring_share": 0.00046807772662133646
+    },
+    {
+      "name": "Lankás Vilmos",
+      "team": "Vadkörte KSE",
+      "role": "GK",
+      "scoring_share": 0.0002578705581026323
+    },
+    {
+      "name": "Jegenye János",
+      "team": "Vadkörte KSE",
+      "role": "DF",
+      "scoring_share": 0.014736477923067629
+    },
+    {
+      "name": "Jegenye Dániel",
+      "team": "Vadkörte KSE",
+      "role": "DF",
+      "scoring_share": 0.008975860694604862
+    },
+    {
+      "name": "Nádas Levente",
+      "team": "Vadkörte KSE",
+      "role": "DF",
+      "scoring_share": 0.01285534911251094
+    },
+    {
+      "name": "Lankás Szabolcs",
+      "team": "Vadkörte KSE",
+      "role": "DF",
+      "scoring_share": 0.029107922314148105
+    },
+    {
+      "name": "Borókás Gergő",
+      "team": "Vadkörte KSE",
+      "role": "DF",
+      "scoring_share": 0.020334434001113472
+    },
+    {
+      "name": "Borókás Bence",
+      "team": "Vadkörte KSE",
+      "role": "MF",
+      "scoring_share": 0.1083922048694806
+    },
+    {
+      "name": "Borókás Kende",
+      "team": "Vadkörte KSE",
+      "role": "MF",
+      "scoring_share": 0.08213024307669876
+    },
+    {
+      "name": "Cserjés Olivér",
+      "team": "Vadkörte KSE",
+      "role": "MF",
+      "scoring_share": 0.056777703939121925
+    },
+    {
+      "name": "Ivó Zalán",
+      "team": "Vadkörte KSE",
+      "role": "MF",
+      "scoring_share": 0.10902395579318191
+    },
+    {
+      "name": "Csermely Kristóf",
+      "team": "Vadkörte KSE",
+      "role": "MF",
+      "scoring_share": 0.05677504907032703
+    },
+    {
+      "name": "Borókás János",
+      "team": "Vadkörte KSE",
+      "role": "FW",
+      "scoring_share": 0.18390580815331914
+    },
+    {
+      "name": "Rügyes Kristóf",
+      "team": "Vadkörte KSE",
+      "role": "FW",
+      "scoring_share": 0.10480947196634963
+    },
+    {
+      "name": "Kavicsos Richárd",
+      "team": "Vadkörte KSE",
+      "role": "FW",
+      "scoring_share": 0.1256754177795091
+    },
+    {
+      "name": "Gyökeres Richárd",
+      "team": "Vadkörte KSE",
+      "role": "FW",
+      "scoring_share": 0.08577415302184285
+    },
+    {
+      "name": "Hamvas Zalán",
+      "team": "Ezüstpatak FC",
+      "role": "GK",
+      "scoring_share": 0.00025766003751992493
+    },
+    {
+      "name": "Sásdi Bence",
+      "team": "Ezüstpatak FC",
+      "role": "GK",
+      "scoring_share": 0.0004348020028641193
+    },
+    {
+      "name": "Vackor Ádám",
+      "team": "Ezüstpatak FC",
+      "role": "DF",
+      "scoring_share": 0.011640464732245982
+    },
+    {
+      "name": "Ivó Csaba",
+      "team": "Ezüstpatak FC",
+      "role": "DF",
+      "scoring_share": 0.015289973747219144
+    },
+    {
+      "name": "Ormos Kende",
+      "team": "Ezüstpatak FC",
+      "role": "DF",
+      "scoring_share": 0.024997408948154345
+    },
+    {
+      "name": "Ormos János",
+      "team": "Ezüstpatak FC",
+      "role": "DF",
+      "scoring_share": 0.03810797049894547
+    },
+    {
+      "name": "Jegenye Vilmos",
+      "team": "Ezüstpatak FC",
+      "role": "DF",
+      "scoring_share": 0.028995718401526895
+    },
+    {
+      "name": "Cserjés Gergő",
+      "team": "Ezüstpatak FC",
+      "role": "MF",
+      "scoring_share": 0.020404081941729157
+    },
+    {
+      "name": "Cserjés Ervin",
+      "team": "Ezüstpatak FC",
+      "role": "MF",
+      "scoring_share": 0.0747062005584211
+    },
+    {
+      "name": "Rügyes Szabolcs",
+      "team": "Ezüstpatak FC",
+      "role": "MF",
+      "scoring_share": 0.06651294011529735
+    },
+    {
+      "name": "Borókás Botond",
+      "team": "Ezüstpatak FC",
+      "role": "MF",
+      "scoring_share": 0.07891133441639586
+    },
+    {
+      "name": "Erdős Szabolcs",
+      "team": "Ezüstpatak FC",
+      "role": "MF",
+      "scoring_share": 0.1439526708850358
+    },
+    {
+      "name": "Ivó Péter",
+      "team": "Ezüstpatak FC",
+      "role": "FW",
+      "scoring_share": 0.06098267728596196
+    },
+    {
+      "name": "Dombi Bence",
+      "team": "Ezüstpatak FC",
+      "role": "FW",
+      "scoring_share": 0.12731410118689124
+    },
+    {
+      "name": "Fürge Richárd",
+      "team": "Ezüstpatak FC",
+      "role": "FW",
+      "scoring_share": 0.22990407224440157
+    },
+    {
+      "name": "Gyökeres Levente",
+      "team": "Ezüstpatak FC",
+      "role": "FW",
+      "scoring_share": 0.07758792299739012
+    },
+    {
+      "name": "Jegenye Kristóf",
+      "team": "Rókahegy SC",
+      "role": "GK",
+      "scoring_share": 0.0006230131213215623
+    },
+    {
+      "name": "Ivó Szabolcs",
+      "team": "Rókahegy SC",
+      "role": "GK",
+      "scoring_share": 0.00020480241638307466
+    },
+    {
+      "name": "Sásdi Márk",
+      "team": "Rókahegy SC",
+      "role": "DF",
+      "scoring_share": 0.009845185205461375
+    },
+    {
+      "name": "Csermely Imre",
+      "team": "Rókahegy SC",
+      "role": "DF",
+      "scoring_share": 0.01643249256353171
+    },
+    {
+      "name": "Ugari Vilmos",
+      "team": "Rókahegy SC",
+      "role": "DF",
+      "scoring_share": 0.02265317747441818
+    },
+    {
+      "name": "Lankás Olivér",
+      "team": "Rókahegy SC",
+      "role": "DF",
+      "scoring_share": 0.014936689375554112
+    },
+    {
+      "name": "Nádas Márk",
+      "team": "Rókahegy SC",
+      "role": "DF",
+      "scoring_share": 0.028863788832666392
+    },
+    {
+      "name": "Tölgyes Noel",
+      "team": "Rókahegy SC",
+      "role": "MF",
+      "scoring_share": 0.06838249102167081
+    },
+    {
+      "name": "Ágas Tamás",
+      "team": "Rókahegy SC",
+      "role": "MF",
+      "scoring_share": 0.06787242599481304
+    },
+    {
+      "name": "Fürge Olivér",
+      "team": "Rókahegy SC",
+      "role": "MF",
+      "scoring_share": 0.05877861345686784
+    },
+    {
+      "name": "Ivó Örs",
+      "team": "Rókahegy SC",
+      "role": "MF",
+      "scoring_share": 0.14267172637564715
+    },
+    {
+      "name": "Rügyes Vilmos",
+      "team": "Rókahegy SC",
+      "role": "MF",
+      "scoring_share": 0.040210935135414835
+    },
+    {
+      "name": "Jegenye Ervin",
+      "team": "Rókahegy SC",
+      "role": "FW",
+      "scoring_share": 0.04363187356498218
+    },
+    {
+      "name": "Mezei János",
+      "team": "Rókahegy SC",
+      "role": "FW",
+      "scoring_share": 0.2649858041038584
+    },
+    {
+      "name": "Berkes Ervin",
+      "team": "Rókahegy SC",
+      "role": "FW",
+      "scoring_share": 0.0945094055233826
+    },
+    {
+      "name": "Zsályás Ádám",
+      "team": "Rókahegy SC",
+      "role": "FW",
+      "scoring_share": 0.12539757583402672
+    },
+    {
+      "name": "Berkes Botond",
+      "team": "Fenyvesalja SE",
+      "role": "GK",
+      "scoring_share": 0.00048060994116150713
+    },
+    {
+      "name": "Berkes Péter",
+      "team": "Fenyvesalja SE",
+      "role": "GK",
+      "scoring_share": 0.000655895734266133
+    },
+    {
+      "name": "Nádas Vilmos",
+      "team": "Fenyvesalja SE",
+      "role": "DF",
+      "scoring_share": 0.025148762874612898
+    },
+    {
+      "name": "Csermely Bence",
+      "team": "Fenyvesalja SE",
+      "role": "DF",
+      "scoring_share": 0.029231163145631595
+    },
+    {
+      "name": "Vackor Márk",
+      "team": "Fenyvesalja SE",
+      "role": "DF",
+      "scoring_share": 0.015766168134714913
+    },
+    {
+      "name": "Rügyes Ferenc",
+      "team": "Fenyvesalja SE",
+      "role": "DF",
+      "scoring_share": 0.02049943472730533
+    },
+    {
+      "name": "Ormos Gergő",
+      "team": "Fenyvesalja SE",
+      "role": "DF",
+      "scoring_share": 0.024744198728468874
+    },
+    {
+      "name": "Jegenye Zalán",
+      "team": "Fenyvesalja SE",
+      "role": "MF",
+      "scoring_share": 0.1014006543993684
+    },
+    {
+      "name": "Lankás Péter",
+      "team": "Fenyvesalja SE",
+      "role": "MF",
+      "scoring_share": 0.05525422018711288
+    },
+    {
+      "name": "Erdős Huba",
+      "team": "Fenyvesalja SE",
+      "role": "MF",
+      "scoring_share": 0.0873042317160804
+    },
+    {
+      "name": "Hamvas Olivér",
+      "team": "Fenyvesalja SE",
+      "role": "MF",
+      "scoring_share": 0.05890322901330697
+    },
+    {
+      "name": "Vackor Tamás",
+      "team": "Fenyvesalja SE",
+      "role": "MF",
+      "scoring_share": 0.06343680562771366
+    },
+    {
+      "name": "Zsályás Bence",
+      "team": "Fenyvesalja SE",
+      "role": "FW",
+      "scoring_share": 0.2716200136945581
+    },
+    {
+      "name": "Rügyes Bence",
+      "team": "Fenyvesalja SE",
+      "role": "FW",
+      "scoring_share": 0.06622873118165505
+    },
+    {
+      "name": "Zsályás Imre",
+      "team": "Fenyvesalja SE",
+      "role": "FW",
+      "scoring_share": 0.09382284683698609
+    },
+    {
+      "name": "Mezei Ferenc",
+      "team": "Fenyvesalja SE",
+      "role": "FW",
+      "scoring_share": 0.0855030340570571
+    },
+    {
+      "name": "Tölgyes Tamás",
+      "team": "Kőhíd ULE",
+      "role": "GK",
+      "scoring_share": 0.00027012000571015744
+    },
+    {
+      "name": "Rügyes Noel",
+      "team": "Kőhíd ULE",
+      "role": "GK",
+      "scoring_share": 0.00035210340922988917
+    },
+    {
+      "name": "Sásdi Szabolcs",
+      "team": "Kőhíd ULE",
+      "role": "DF",
+      "scoring_share": 0.031468702763216144
+    },
+    {
+      "name": "Lankás Huba",
+      "team": "Kőhíd ULE",
+      "role": "DF",
+      "scoring_share": 0.049778635937290636
+    },
+    {
+      "name": "Csermely Botond",
+      "team": "Kőhíd ULE",
+      "role": "DF",
+      "scoring_share": 0.01054983501562374
+    },
+    {
+      "name": "Sásdi Örs",
+      "team": "Kőhíd ULE",
+      "role": "DF",
+      "scoring_share": 0.025626185845586645
+    },
+    {
+      "name": "Borókás Vilmos",
+      "team": "Kőhíd ULE",
+      "role": "DF",
+      "scoring_share": 0.012515013574981651
+    },
+    {
+      "name": "Hamvas Kristóf",
+      "team": "Kőhíd ULE",
+      "role": "MF",
+      "scoring_share": 0.0800908657553889
+    },
+    {
+      "name": "Gyökeres Zalán",
+      "team": "Kőhíd ULE",
+      "role": "MF",
+      "scoring_share": 0.059161437880003095
+    },
+    {
+      "name": "Ágas Péter",
+      "team": "Kőhíd ULE",
+      "role": "MF",
+      "scoring_share": 0.025288768260852898
+    },
+    {
+      "name": "Cserjés Ferenc",
+      "team": "Kőhíd ULE",
+      "role": "MF",
+      "scoring_share": 0.10048030755882607
+    },
+    {
+      "name": "Csermely Tamás",
+      "team": "Kőhíd ULE",
+      "role": "MF",
+      "scoring_share": 0.04667986481511186
+    },
+    {
+      "name": "Dombi Tamás",
+      "team": "Kőhíd ULE",
+      "role": "FW",
+      "scoring_share": 0.12898452057924042
+    },
+    {
+      "name": "Ágas Dániel",
+      "team": "Kőhíd ULE",
+      "role": "FW",
+      "scoring_share": 0.09866855610582567
+    },
+    {
+      "name": "Ivó Imre",
+      "team": "Kőhíd ULE",
+      "role": "FW",
+      "scoring_share": 0.12144978467501125
+    },
+    {
+      "name": "Dombi Levente",
+      "team": "Kőhíd ULE",
+      "role": "FW",
+      "scoring_share": 0.20863529781810092
+    },
+    {
+      "name": "Hamvas Csaba",
+      "team": "Darázsfalva FC",
+      "role": "GK",
+      "scoring_share": 0.0006222194284535909
+    },
+    {
+      "name": "Fürge Csaba",
+      "team": "Darázsfalva FC",
+      "role": "GK",
+      "scoring_share": 0.00023801702727264872
+    },
+    {
+      "name": "Vackor Csaba",
+      "team": "Darázsfalva FC",
+      "role": "DF",
+      "scoring_share": 0.02145538458368023
+    },
+    {
+      "name": "Csermely Vilmos",
+      "team": "Darázsfalva FC",
+      "role": "DF",
+      "scoring_share": 0.017930605067212127
+    },
+    {
+      "name": "Zsályás Tamás",
+      "team": "Darázsfalva FC",
+      "role": "DF",
+      "scoring_share": 0.021250800448660005
+    },
+    {
+      "name": "Mezei Szabolcs",
+      "team": "Darázsfalva FC",
+      "role": "DF",
+      "scoring_share": 0.011974220582588572
+    },
+    {
+      "name": "Ivó Olivér",
+      "team": "Darázsfalva FC",
+      "role": "DF",
+      "scoring_share": 0.00820428608043545
+    },
+    {
+      "name": "Sásdi Botond",
+      "team": "Darázsfalva FC",
+      "role": "MF",
+      "scoring_share": 0.019328119950414058
+    },
+    {
+      "name": "Cserjés Márk",
+      "team": "Darázsfalva FC",
+      "role": "MF",
+      "scoring_share": 0.03116702638353923
+    },
+    {
+      "name": "Borókás Ferenc",
+      "team": "Darázsfalva FC",
+      "role": "MF",
+      "scoring_share": 0.04332436172785742
+    },
+    {
+      "name": "Ugari Bence",
+      "team": "Darázsfalva FC",
+      "role": "MF",
+      "scoring_share": 0.047061579790666455
+    },
+    {
+      "name": "Patakos Zalán",
+      "team": "Darázsfalva FC",
+      "role": "MF",
+      "scoring_share": 0.14354783534264826
+    },
+    {
+      "name": "Berkes Gergő",
+      "team": "Darázsfalva FC",
+      "role": "FW",
+      "scoring_share": 0.25261805493254363
+    },
+    {
+      "name": "Fürge Bence",
+      "team": "Darázsfalva FC",
+      "role": "FW",
+      "scoring_share": 0.08982258442389872
+    },
+    {
+      "name": "Cserjés Imre",
+      "team": "Darázsfalva FC",
+      "role": "FW",
+      "scoring_share": 0.17290394775328702
+    },
+    {
+      "name": "Mezei Olivér",
+      "team": "Darázsfalva FC",
+      "role": "FW",
+      "scoring_share": 0.11855095647684268
+    }
+  ]
+}

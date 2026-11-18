@@ -1,0 +1,7 @@
+season,round,date,home_team,away_team,home_goals,away_goals,status
+EXAMPLE 2025/26 (fictional),1,2025-08-10,Ködvár SE,Szélmalom FC,2,1,
+EXAMPLE 2025/26 (fictional),1,2025-08-10,Holdfény TC,Csillagrét SK,0,0,
+EXAMPLE 2025/26 (fictional),2,2025-08-17,Szélmalom FC,Holdfény TC,3,3,
+EXAMPLE 2025/26 (fictional),2,2025-08-17,Csillagrét SK,Ködvár SE,,,postponed
+EXAMPLE 2025/26 (fictional),3,2025-08-24,Ködvár SE,Holdfény TC,,,
+EXAMPLE 2025/26 (fictional),3,2025-08-24,Csillagrét SK,Szélmalom FC,,,

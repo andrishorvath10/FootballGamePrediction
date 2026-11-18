@@ -1,0 +1,4 @@
+season,round,home_team,away_team,team,player,minute,penalty,own_goal
+EXAMPLE 2025/26 (fictional),1,Ködvár SE,Szélmalom FC,Ködvár SE,Ágas Bence,12,,
+EXAMPLE 2025/26 (fictional),1,Ködvár SE,Szélmalom FC,Szélmalom FC,Berkes Huba,40,igen,
+EXAMPLE 2025/26 (fictional),1,Ködvár SE,Szélmalom FC,Ködvár SE,Dombi Levente,77,,igen
